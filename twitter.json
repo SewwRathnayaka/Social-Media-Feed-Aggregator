@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": "1234567890",
+      "text": "Just launched my new web development course! Check it out 🚀 #WebDev #Coding",
+      "created_at": "2025-01-22T08:30:00Z",
+      "author_id": "tech_guru",
+      "author": {
+        "username": "TechGuru",
+        "profile_image_url": "thumbnail.jpg"
+      }
+    },
+    {
+      "id": "1234567891",
+      "text": "Excited to share my latest project: A social media feed aggregator built with vanilla JavaScript! 💻",
+      "created_at": "2025-01-24T12:15:00Z",
+      "author_id": "dev_master",
+      "author": {
+        "username": "DevMaster",
+        "profile_image_url": "thumbnail.jpg"
+      }
+    },
+    {
+      "id": "1234567892",
+      "text": "API integration tips: Always normalize your data structures for easier processing. Here's why...",
+      "created_at": "2025-01-26T15:45:00Z",
+      "author_id": "api_expert",
+      "author": {
+        "username": "APIExpert",
+        "profile_image_url": "thumbnail.jpg"
+      }
+    },
+    {
+      "id": "1234567893",
+      "text": "JSON is the backbone of modern web APIs. Understanding its structure is crucial for developers! 📚",
+      "created_at": "2025-01-27T10:20:00Z",
+      "author_id": "json_master",
+      "author": {
+        "username": "JSONMaster",
+        "profile_image_url": "thumbnail.jpg"
+      }
+    },
+    {
+      "id": "1234567894",
+      "text": "Building a feed aggregator? Remember: data normalization is key to creating a unified user experience! 🎯",
+      "created_at": "2025-01-29T14:00:00Z",
+      "author_id": "feed_builder",
+      "author": {
+        "username": "FeedBuilder",
+        "profile_image_url": "thumbnail.jpg"
+      }
+    }
+  ]
+}
